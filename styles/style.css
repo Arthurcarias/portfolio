@@ -172,8 +172,8 @@ body {
     }
 
     .icones {
-        height: 9%;
-        width: 9%;
+        height: 10%;
+        width: 10%;
     }
 
     .apresentacao__imagem {
@@ -181,7 +181,7 @@ body {
     }
 
     .rodape {
-        font-size: 1.13rem;
+        font-size: 1rem;
     }
     
  }   
