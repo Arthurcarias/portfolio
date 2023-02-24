@@ -167,8 +167,13 @@ body {
     }
 
     .apresentacao__conteudo__links__navegacao {
-        font-size: 1.38rem;
+        font-size: 1.25rem;
         width: 70%;
+    }
+
+    .icones {
+        height: 9%;
+        width: 9%;
     }
 
     .apresentacao__imagem {
