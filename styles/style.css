@@ -132,6 +132,37 @@ body {
     color: var(--cor-secundaria);
 }
 
+@media(max-width: 500px)  {
+    
+    .cabecalho {
+        padding: 10%;
+    }
+
+    .cabecalho__menu {
+        justify-content: center;
+    }
+    
+    .apresentacao {
+        flex-direction: column-reverse;
+        padding: 5%;
+        gap:25px
+    }
+
+    .apresentacao__conteudo {
+        width: auto;
+        padding-bottom: 5%;
+    }
+    
+    .apresentacao__conteudo__titulo {
+        font-size: 2.38rem;
+    {
+
+    .apresentacao__imagem {
+        width: 60%;
+    }
+    
+}
+
 @media(max-width: 1250px)  {
     
     .cabecalho {
