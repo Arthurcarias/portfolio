@@ -141,7 +141,12 @@ body {
     .cabecalho__menu {
         justify-content: center;
     }
+
+    .cabecalho__menu__link {
+        font-size: 1.25rem;
     
+    }
+
     .apresentacao {
         flex-direction: column-reverse;
         padding: 5%;
@@ -152,16 +157,29 @@ body {
         width: auto;
         padding-bottom: 5%;
     }
-    
+
     .apresentacao__conteudo__titulo {
-        font-size: 2.38rem;
-    {
+        font-size: 2.25rem;
+    }
+
+    .apresentacao__conteudo__texto {
+        font-size: 1.25rem;
+    }
+
+    .apresentacao__conteudo__links__navegacao {
+        font-size: 1.38rem;
+        width: 70%;
+    }
 
     .apresentacao__imagem {
-        width: 60%;
+      width: 60%;
+    }
+
+    .rodape {
+        font-size: 1.13rem;
     }
     
-}
+ }   
 
 @media(max-width: 1250px)  {
     
